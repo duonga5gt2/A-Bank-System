@@ -27,9 +27,9 @@ public class SecondSignUpWindow extends JFrame {
     private Backend backend;
 
     // Twilio credentials
-    public static final String ACCOUNT_SID = "AC129d35acbcd70bb33217937b40917381";
-    public static final String AUTH_TOKEN = "6a47c985ed257a6fcb2a2786662ba6a8";
-    public static final String SERVICE_SID = "VA9f1dff0b3a2462616041c6cfdd4e5707";
+    public static final String ACCOUNT_SID = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+    public static final String AUTH_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+    public static final String SERVICE_SID = "xxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
     /**
      * Create the frame.
