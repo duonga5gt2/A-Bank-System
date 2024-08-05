@@ -3,10 +3,10 @@ Overview
 A-Bank-System is a Java-based application designed to manage banking operations such as account creation, deposits, withdrawals, and balance inquiries. This system uses MySQL for database management, providing a robust and scalable solution for handling banking transactions.
 
 I. Features
-Account Management: Create and manage user accounts.
-Transactions: Handle transactions efficiently.
-Balance Inquiry: Check account balances.
-Database Integration: Utilizes MySQL for data storage.
+- Account Management: Create and manage user accounts.
+- Transactions: Handle transactions efficiently.
+- Balance Inquiry: Check account balances.
+- Database Integration: Utilizes MySQL for data storage.
 
 II. Installation
 1. Clone the repository
